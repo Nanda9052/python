@@ -1,0 +1,11 @@
+/MyJavaProject
+├── src
+│   └── main
+│       └── java
+│           └── com
+│               └── example
+│                   └── App.java
+├── pom.xml
+└── Jenkinsfile
+
+
